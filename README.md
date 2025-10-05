@@ -84,12 +84,6 @@ app/src/main/java/com/example/pipfactorymanagement/
 └── MainActivity.kt       # Main activity
 ```
 
-## Getting Started
-
-1. Clone the repository
-2. Open in Android Studio
-3. Sync project with Gradle files
-4. Build and run on device/emulator
 
 ## Configuration
 
